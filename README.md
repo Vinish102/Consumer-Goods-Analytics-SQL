@@ -1,5 +1,6 @@
 # Consumer-Goods-Analytics-SQL
 Project Overview
+
 This project revolves around a fictitious company named AtliQ Hardware, which specializes in selling computer hardware to major retailers, distributors and direct channels. These customers then cater to end consumers. The primary objective of this project is to derive meaningful insights from the data using advanced SQL techniques.
 
 Features and Techniques Used
